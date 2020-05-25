@@ -5,6 +5,6 @@
 # Bike - Landing Page
 
 Projeto para demonstração de código aberto. <br/>
-Resultado final em: https://oeduardo.web.app/landingpage
+Resultado final em: https://eduardooo.web.app/landingpage
 
 <img width="100%" src="https://i.ibb.co/Bw096RK/Captura-de-tela-de-2020-04-29-12-56-09.png" title="Screenshot" alt="Screenshot">
