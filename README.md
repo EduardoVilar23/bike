@@ -1,5 +1,5 @@
 <div>
-<a href="https://oeduardo.web.app/landingpage/"><img width="25%" src="https://oeduardo.web.app/landingpage/assets/logo.png" title="Logo" alt="Logo"></a>
+<a href="https://eduardooo.web.app/landingpage/"><img width="25%" src="https://eduardooo.web.app/landingpage/assets/logo.png" title="Logo" alt="Logo"></a>
 </div>
 
 # Bike - Landing Page
